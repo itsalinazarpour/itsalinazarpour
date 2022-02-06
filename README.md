@@ -1,7 +1,7 @@
 - Hi, I’m Ali Nazarpour
 - I’m interested in front side of websites
 - I’m currently learning js
-- I’m looking to collaborate on front-end $ UI/UX projects
+- I’m looking to collaborate on front-end & UI/UX projects
 - How to reach me : itsalinazarpour@gmail.com
 
 <!---
