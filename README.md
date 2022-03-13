@@ -36,7 +36,7 @@ I'm a software engineer specializing in building (and occasionally designing) di
  
 
 </article>
-<details>
+<details open>
 <summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji><strong>CLICK HERE</strong></summary>
 <br>
  <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="highlight highlight-source-shell position-relative overflow-auto"><pre><span class="pl-k">&gt;</span> itsalinazarpour</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
