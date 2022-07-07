@@ -65,7 +65,7 @@ I'm a software engineer specializing in building (and occasionally designing) di
 
 I started my studies in 2017 in software engineering <a href="https://www.lu.ac.ir/" rel="nofollow">at Lorestan National University</a> and graduated with a bachelor's degree from there. <br>
  <p class="paragraph content-paragraph">Here are a few technologies and softwares I've been working with recently:</p>
-<ul class="skills-list"><li>JavaScript (ES6+)</li><li>React</li><li>CSS (Bootstrap &amp; SASS)</li><li>Git &amp; GitHub</li><li>WordPress</li><li>TypeScript</li><li>Photoshop &amp; Illustrator</li><li>HTML &amp; XHTML</li></ul>Let’s make something special!
+<ul class="skills-list"><li>JavaScript (ES6+)</li><li>React</li><li>CSS (Bootstrap &amp; SASS)</li><li>Git &amp; GitHub</li><li>TypeScript</li><li>Photoshop</li><li>HTML</li></ul>Let’s make something special!
 
  
 </article>
