@@ -8,15 +8,11 @@
 
 <p align="center" dir="auto">
 <br>
-<a href="https://twitter.com/itsalinazarpour" rel="nofollow">
-  <img alt="guilyx | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png" style="max-width: 100%;">
-</a>
-<a href="https://www.linkedin.com/in/ali-nazarpour-b5b4a222a" rel="nofollow">
+
+<a href="https://www.linkedin.com/in/itsalinazarpour/" rel="nofollow">
   <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" style="max-width: 100%;">
 </a>
-<a href="https://www.instagram.com/itsalinazarpour/" rel="nofollow">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" style="max-width: 100%;">
-</a>
+
 
 </p>
 
